@@ -1,0 +1,116 @@
+# POLÍTICA DE PRIVACIDADE E TERMOS DE USO
+### Assistente de Inteligência Artificial
+
+**Última atualização: 25 de novembro de 2026**
+
+## 1. Introdução
+
+Este documento estabelece as condições de privacidade e utilização do Assistente de Inteligência Artificial, disponibilizado por meio do Telegram.
+
+O serviço utiliza tecnologias de inteligência artificial para interpretar mensagens, responder perguntas, gerar conteúdos e auxiliar os usuários em diferentes atividades.
+
+Ao utilizar o bot, o usuário declara estar ciente das condições apresentadas neste documento.
+
+O serviço é independente e não possui vínculo oficial com o Telegram ou com os desenvolvedores dos modelos de inteligência artificial utilizados.
+
+## 2. Funcionamento da Inteligência Artificial
+
+As respostas são produzidas automaticamente por sistemas de inteligência artificial, que podem utilizar modelos e tecnologias desenvolvidos por diferentes empresas e provedores.
+
+O serviço não garante que todas as respostas sejam corretas, completas ou atualizadas.
+
+A inteligência artificial pode apresentar erros, informações imprecisas ou interpretações equivocadas.
+
+O usuário deve verificar informações importantes antes de utilizá-las para tomar decisões.
+
+## 3. Coleta e processamento de informações
+
+Durante a utilização do serviço, poderão ser processadas informações como:
+
+- Mensagens e perguntas enviadas ao bot.
+- Nome público e nome de usuário disponibilizados pelo Telegram.
+- Imagens, documentos e outros arquivos enviados voluntariamente.
+- Informações técnicas necessárias ao funcionamento do serviço.
+
+Essas informações poderão ser utilizadas para processar solicitações, gerar respostas, manter o funcionamento do bot e identificar possíveis falhas ou abusos.
+
+## 4. Processamento por terceiros
+
+Para gerar respostas, mensagens e conteúdos enviados ao bot poderão ser encaminhados a provedores externos de inteligência artificial.
+
+Esses provedores podem possuir políticas próprias de privacidade, armazenamento e tratamento de informações.
+
+O tratamento dos dados poderá ocorrer conforme as tecnologias e os serviços utilizados pelo bot.
+
+## 5. Armazenamento de informações
+
+O armazenamento das informações depende da infraestrutura do bot, do Telegram e dos provedores externos de inteligência artificial.
+
+As mensagens poderão ser armazenadas temporariamente ou por períodos maiores, conforme as configurações e políticas dos serviços envolvidos.
+
+Não garantimos que as mensagens sejam excluídas imediatamente após a geração de uma resposta.
+
+Também não garantimos armazenamento zero ou ausência de processamento por terceiros.
+
+## 6. Segurança e proteção de dados
+
+São recomendadas medidas técnicas e administrativas para reduzir riscos de acesso não autorizado, perda, alteração ou divulgação indevida de informações.
+
+Entretanto, nenhum sistema conectado à internet está completamente livre de riscos.
+
+Por isso, recomendamos que os usuários evitem compartilhar informações confidenciais ou desnecessárias.
+
+## 7. Responsabilidade e limitações da IA
+
+O usuário reconhece que está utilizando um serviço automatizado baseado em inteligência artificial.
+
+As respostas geradas não representam necessariamente opiniões ou orientações profissionais.
+
+O conteúdo produzido pode conter erros e não deve ser considerado substituto de orientação médica, jurídica, financeira ou profissional especializada.
+
+O usuário deve avaliar as informações recebidas antes de utilizá-las ou compartilhá-las.
+
+Esta cláusula não exclui responsabilidades legais do responsável pelo serviço nem os direitos dos usuários.
+
+## 8. Uso adequado
+
+O serviço não deve ser utilizado para atividades ilegais, fraudes, ameaças, violação de direitos de terceiros ou outras finalidades proibidas pela legislação aplicável.
+
+O responsável pelo bot poderá adotar medidas contra usos abusivos, respeitando os direitos dos usuários e a legislação vigente.
+
+## 9. Informações sensíveis
+
+Recomendamos que os usuários não compartilhem:
+
+- Senhas e códigos de autenticação.
+- Dados bancários e informações financeiras confidenciais.
+- Documentos pessoais sem necessidade.
+- Informações médicas ou outros dados sensíveis desnecessários.
+
+O usuário deve avaliar cuidadosamente quais informações deseja compartilhar com o serviço.
+
+## 10. Direitos dos usuários e LGPD
+
+O tratamento de dados pessoais deverá respeitar a legislação aplicável, especialmente a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 — LGPD).
+
+Os usuários poderão exercer os direitos previstos na legislação, incluindo solicitações de acesso, correção e eliminação de dados, quando aplicáveis.
+
+As solicitações deverão ser encaminhadas ao responsável pelo serviço.
+
+## 11. Alterações desta política
+
+Esta política poderá ser atualizada para acompanhar mudanças nas funcionalidades, tecnologias utilizadas, práticas de tratamento de dados ou exigências legais.
+
+A versão mais recente deverá permanecer disponível em um endereço público.
+
+## 12. Contato e solicitações
+
+Para dúvidas, solicitações relacionadas à privacidade, denúncias ou questões sobre o funcionamento do serviço, entre em contato com o responsável pelo desenvolvimento e manutenção do bot.
+
+**Contato:** [INSERIR E-MAIL OU CANAL DE CONTATO]
+
+---
+
+**Assistente de Inteligência Artificial**
+
+Serviço independente baseado em tecnologias de inteligência artificial e disponibilizado por meio do Telegram.
